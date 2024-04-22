@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      waterline_0: -3616894403780319719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
