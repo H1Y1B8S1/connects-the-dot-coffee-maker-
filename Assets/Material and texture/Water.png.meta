@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: dc61d237983e36442a126c2d9c68d1a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 563282109560904351
+    second: 10-water-drops-png-image_0
+  - first:
+      213: -4343472584053613487
+    second: 10-water-drops-png-image_1
+  - first:
+      213: 2548371960167812150
+    second: 10-water-drops-png-image_2
+  - first:
+      213: -4952829073756088908
+    second: 10-water-drops-png-image_3
+  - first:
+      213: -9032848805634746523
+    second: 10-water-drops-png-image_4
+  - first:
+      213: -744568788173417558
+    second: 10-water-drops-png-image_5
+  - first:
+      213: -2168195334362642164
+    second: 10-water-drops-png-image_6
+  - first:
+      213: 3886520578333418850
+    second: 10-water-drops-png-image_7
+  - first:
+      213: -3238468501359619791
+    second: 10-water-drops-png-image_8
+  - first:
+      213: 8612040246902854936
+    second: 10-water-drops-png-image_9
+  - first:
+      213: 5996461911383808343
+    second: 10-water-drops-png-image_10
+  - first:
+      213: -2070962864475093772
+    second: 10-water-drops-png-image_11
+  - first:
+      213: 7622377106571787598
+    second: 10-water-drops-png-image_12
+  - first:
+      213: -5326249767165026576
+    second: 10-water-drops-png-image_13
+  - first:
+      213: -3595794885841261334
+    second: 10-water-drops-png-image_14
+  - first:
+      213: -5027256225932220754
+    second: 10-water-drops-png-image_15
+  - first:
+      213: 6299466661862251971
+    second: 10-water-drops-png-image_16
+  - first:
+      213: 326663787922703669
+    second: 10-water-drops-png-image_17
+  - first:
+      213: 8837025282130546242
+    second: 10-water-drops-png-image_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1196
+        width: 830
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699a38ade87953642b67ef6d47047b1f
+      internalID: -1300597874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1042
+        width: 388
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d34365dbd433d4b9696785c0d7ee3d
+      internalID: 437146278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water3
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 775
+        width: 330
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc543a97ec0305f44b5f4d90b4754a2f
+      internalID: -334476472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 261
+        width: 672
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9378a4e40395e4dbb1391e1dc76e62
+      internalID: -170355522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line2
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 613
+        width: 474
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704bd912351122844b1a730a27582c3d
+      internalID: 295036894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line3
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 218
+        width: 581
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1b6457f2ef77f49bdf8b3e435489b1
+      internalID: -541528797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 30556031fdee6e04c85ac8fdb27bb1b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      10-water-drops-png-image_0: -1630991525
+      10-water-drops-png-image_1: -1857428892
+      10-water-drops-png-image_11: -1805680539
+      10-water-drops-png-image_12: 924631553
+      10-water-drops-png-image_13: -709307035
+      10-water-drops-png-image_15: 721164586
+      10-water-drops-png-image_16: 1744229044
+      10-water-drops-png-image_17: -789960079
+      10-water-drops-png-image_3: 2102701592
+      10-water-drops-png-image_5: -1833892848
+      10-water-drops-png-image_6: 224751637
+      10-water-drops-png-image_7: -1191982952
+      line: 437146278
+      line2: 295036894
+      line3: -541528797
+      water: -1300597874
+      water2: -170355522
+      water3: -334476472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: d677a1f81981d6b4f9598ffaa7ec20d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2828577230513059148
+    second: 10-water-drops-png-image (1)_0
+  - first:
+      213: 5806518961480131294
+    second: 10-water-drops-png-image (1)_1
+  - first:
+      213: -3286579678909844535
+    second: 10-water-drops-png-image (1)_2
+  - first:
+      213: -3995001138946889406
+    second: 10-water-drops-png-image (1)_3
+  - first:
+      213: 2931587115103868921
+    second: 10-water-drops-png-image (1)_4
+  - first:
+      213: 8812783231574587528
+    second: 10-water-drops-png-image (1)_5
+  - first:
+      213: 7197784862474167150
+    second: 10-water-drops-png-image (1)_6
+  - first:
+      213: -8167711403378674311
+    second: 10-water-drops-png-image (1)_7
+  - first:
+      213: -9190207207849614429
+    second: 10-water-drops-png-image (1)_8
+  - first:
+      213: 5120819626728828924
+    second: 10-water-drops-png-image (1)_9
+  - first:
+      213: -3922002135437440642
+    second: 10-water-drops-png-image (1)_10
+  - first:
+      213: 5413871097236749608
+    second: 10-water-drops-png-image (1)_11
+  - first:
+      213: -8132174210147375283
+    second: 10-water-drops-png-image (1)_12
+  - first:
+      213: -4388519976100359053
+    second: 10-water-drops-png-image (1)_13
+  - first:
+      213: 5803625398262670757
+    second: 10-water-drops-png-image (1)_14
+  - first:
+      213: -8638588916151401570
+    second: 10-water-drops-png-image (1)_15
+  - first:
+      213: 2287657052717311879
+    second: 10-water-drops-png-image (1)_16
+  - first:
+      213: -2210179704630146619
+    second: 10-water-drops-png-image (1)_17
+  - first:
+      213: 623209177451404243
+    second: 10-water-drops-png-image (1)_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2085
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bac28bceffdeb8d0800000000000000
+      internalID: -2828577230513059148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2107
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2e7903b36e49050800000000000000
+      internalID: 5806518961480131294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 972
+        width: 982
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3bf80f139b362d0800000000000000
+      internalID: -3286579678909844535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1328
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2492acb61a7ee88c0800000000000000
+      internalID: -3995001138946889406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 906
+        width: 391
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7d0efe2f61fa820800000000000000
+      internalID: 2931587115103868921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1294
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888b58038ab4d4a70800000000000000
+      internalID: 8812783231574587528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1269
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63e479623ba3e360800000000000000
+      internalID: 7197784862474167150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 985
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975f4b5c0c576ae80800000000000000
+      internalID: -8167711403378674311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_8
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 979
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3a3eb7c33d57080800000000000000
+      internalID: -9190207207849614429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_9
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 664
+        width: 435
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff250ab15ec01740800000000000000
+      internalID: 5120819626728828924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 105
+        width: 821
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e798de466df3299c0800000000000000
+      internalID: -3922002135437440642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 612
+        width: 477
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dfc8a341fe12b40800000000000000
+      internalID: 5413871097236749608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 756
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47a29854a6b42f80800000000000000
+      internalID: -8132174210147375283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 510
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37415d64558d813c0800000000000000
+      internalID: -4388519976100359053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_14
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 217
+        width: 583
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5a1e00d8e9a8050800000000000000
+      internalID: 5803625398262670757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_15
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 439
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e934b2466219d1880800000000000000
+      internalID: -8638588916151401570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_16
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 430
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e12b08f36fbf10800000000000000
+      internalID: 2287657052717311879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_17
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 420
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c90eb7c44dd351e0800000000000000
+      internalID: -2210179704630146619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-water-drops-png-image (1)_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db11cae17516a800800000000000000
+      internalID: 623209177451404243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
