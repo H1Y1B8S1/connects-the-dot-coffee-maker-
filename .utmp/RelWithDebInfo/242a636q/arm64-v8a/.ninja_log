@@ -1,0 +1,11 @@
+# ninja log v5
+41	600	7354821684193824	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	efa2d4f95f3215a6
+602	990	7354821687309862	D:/SINH/Unity/connects-the-dot-coffee-maker-/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/242a636q/obj/arm64-v8a/libswappywrapper.so	a1a6688a962736bc
+22	2213	7354821700303062	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	55767311a4bc28f7
+27	2246	7354821701430653	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8e57400106f75f6a
+7	2315	7354821702033408	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	70f3c994578cfe80
+32	2461	7354821703634737	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f1e3a593b99093de
+2	2520	7354821704274253	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	71af8fc2f688483a
+17	2742	7354821706496554	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a141325de4635052
+11	2895	7354821707983856	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	a07bfaf926b9b31c
+2895	3061	7354821709233758	D:/SINH/Unity/connects-the-dot-coffee-maker-/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/242a636q/obj/arm64-v8a/libgame.so	7ed5bae2fca2e41e

@@ -1,46 +1,63 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LineManager : MonoBehaviour
 {
-    public LineRenderer lineRenderer; // Reference to the LineRenderer component
-    public Transform dotsParent; // Parent object containing all dot objects
-    private Dot[] dots; // Array to store references to all dot objects
+    public LineRenderer lineRenderer; 
+    public Transform dotsParent; 
+    private Dot[] dots;
+
+    public GameObject gameOver;
 
 
     private void Start()
     {
-        dots = dotsParent.GetComponentsInChildren<Dot>(); // Get all Dot components under dotsParent
-        lineRenderer.positionCount = 0; // Initialize LineRenderer with no points
+        dots = dotsParent.GetComponentsInChildren<Dot>();
+        lineRenderer.positionCount = 0;
     }
 
     private void Update()
     {
-        DrawLines(); // Call DrawLines method in Update for real-time updates
+        DrawLines();
     }
 
     private void DrawLines()
     {
-        lineRenderer.positionCount = 0; // Reset LineRenderer points before drawing
+        lineRenderer.positionCount = 0;
+        int count = 0;
 
         foreach (Dot dot in dots)
         {
             if (dot.isSelected)
             {
-                lineRenderer.positionCount++; // Increase LineRenderer points by 1
-                lineRenderer.SetPosition(lineRenderer.positionCount - 1, dot.transform.position); // Set line point to dot position
+                lineRenderer.positionCount++; 
+                lineRenderer.SetPosition(lineRenderer.positionCount - 1, dot.transform.position); 
+                count++;
             }
         }
 
-        // Draw lines between selected dots
         if (lineRenderer.positionCount >= 2)
         {
-            lineRenderer.enabled = true; // Show the LineRenderer if there are at least 2 points
+            lineRenderer.enabled = true;
         }
         else
         {
-            lineRenderer.enabled = false; // Hide the LineRenderer if less than 2 points
+            lineRenderer.enabled = false;
         }
+
+        if (count == dots.Length)
+        {
+            gameOver.SetActive(true);
+            StartCoroutine(Delay(1.0f)); 
+        }
+    }
+
+    IEnumerator Delay(float time)
+    {
+        yield return new WaitForSeconds(time); 
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        //gameObject.SetActive(false);
     }
 }

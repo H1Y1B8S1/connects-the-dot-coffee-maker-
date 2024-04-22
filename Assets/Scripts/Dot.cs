@@ -2,21 +2,21 @@ using UnityEngine;
 
 public class Dot : MonoBehaviour
 {
-    public bool isSelected = false; // Flag to track dot selection
-    private LineRenderer lineRenderer; // Reference to the LineRenderer component
-    private Vector2 lastPosition; // Last position of the touch input
+    public bool isSelected = false; 
+    private LineRenderer lineRenderer; 
+    private Vector2 lastPosition; 
 
     private void Start()
     {
         lineRenderer = GetComponent<LineRenderer>();
-        lineRenderer.positionCount = 0; // Initialize the LineRenderer with no points
+        lineRenderer.positionCount = 0;
     }
 
     private void Update()
     {
         if (Input.touchCount > 0)
         {
-            Touch touch = Input.GetTouch(0); // Get the first touch
+            Touch touch = Input.GetTouch(0);
 
             switch (touch.phase)
             {
@@ -53,7 +53,7 @@ public class Dot : MonoBehaviour
 
     private void EndDragging()
     {
-        // Reset any dragging-related states or actions if needed
+       //Animation
     }
 
     private void SelectDot()
@@ -61,8 +61,8 @@ public class Dot : MonoBehaviour
         if (!isSelected)
         {
             isSelected = true;
-            lineRenderer.positionCount++; // Increase LineRenderer points by 1
-            lineRenderer.SetPosition(lineRenderer.positionCount - 1, transform.position); // Set line point to dot position
+            lineRenderer.positionCount++;
+            lineRenderer.SetPosition(lineRenderer.positionCount - 1, transform.position);
         }
     }
 }
